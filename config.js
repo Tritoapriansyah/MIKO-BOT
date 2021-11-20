@@ -1,6 +1,6 @@
 userbot = {
- owner: [ "6281325994066" ],
-  MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
+ owner: [ "6285888258313" ],
+  MONGO_URI: "mongodb+srv://Trito:23042006@test.orfuy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
    error: "errorr!!"
@@ -8,14 +8,14 @@ userbot = {
    apikey: {
    key: "Kotzkey"
    },
-   prefix: ["!"],
+   prefix: ["."],
    gexp: 50,
    limit: 100,
    eror: "Sepertinya Erorr",
    waits: "Sedang di proses",
-   butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
-   packname: 'MikoBot',
-   author: 'github.com/Kotzyy',
+   butmag: 'https://i.pinimg.com/originals/ee/bf/7d/eebf7d5db5e652957905e6d080c0c070.jpg', // buat Image Button
+   packname: 'LolitaBot',
+   author: 'powered by baileys',
     setting: {
     admin: "only admin",
     group: "only group",
